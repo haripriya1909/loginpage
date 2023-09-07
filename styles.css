@@ -1,0 +1,57 @@
+@font-face{
+    font-family: myFont;
+    src:url(DancingScript-Bold.otf);
+}
+
+.main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    
+}
+h1.insta-head
+{
+    font-family:myFont;
+    font-size: 7rem;
+}
+img.fb{
+    width:1.7rem;
+}
+img.geton{
+    width:10rem;
+}
+.login-pass{
+    display:flex;
+    flex-direction:column;
+    margin-top: 2%;
+    align-items: center; /*ceter horizontally*/
+    justify-content: center; /*ceter vertically*/
+
+}
+.fbflex{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+input.btn{
+    font-weight: 150;
+    width:20rem;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-top: 1%;
+    margin-bottom: 2%;
+}
+button.btn{
+    font-weight: 150;
+    width:20rem;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-top: 1%;
+    margin-bottom: 2%;
+}
+.end a {
+    margin-right: 1rem;
+}
